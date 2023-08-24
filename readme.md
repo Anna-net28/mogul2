@@ -10,3 +10,7 @@ git status
 git add .
 git commit -m "проект создан"
 git diff --color-words
+git add .
+git commit -m "отредактированы блоки в html header, footer, а также css файлы normalize, header, footer"
+git diff --color-words
+git push
