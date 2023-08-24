@@ -1,0 +1,25 @@
+@import url("../css/normalize.css");
+@import url("../css/header.css");
+@import url("../css/block.css");
+@import url("../css/indent.css");
+@import url("../css/zeroing.css");
+@import url("../css/footer.css");
+
+
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: local('Roboto-sans-serif') local('Roboto sans-serif') url('../fonts/Roboto-Black.ttf') format('ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: local('Roboto-sans-serif') local('Roboto sans-serif') url('../fonts/Roboto-Bold.ttf') format('ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: local('Roboto-sans-serif') local('Roboto sans-serif') url('../fonts/Roboto-Regular.ttf') format('ttf');
+    font-weight: 900
+}

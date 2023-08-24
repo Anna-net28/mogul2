@@ -1,0 +1,15 @@
+.indent__img-border {
+    padding: 0;
+}
+
+.indent__image {
+    border: 1px solid #000;
+    margin: 30px 0 0 0;
+    width: 100%;
+}
+
+.text-grey {
+    color: #5E5E5E;
+    font-weight: 700;
+    padding: 0 30px 15px 30px;
+}
