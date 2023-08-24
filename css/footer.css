@@ -1,6 +1,7 @@
 .footer {
     display: block;
     padding: 25px 0 25px 15px;
+    background: #F1F1F1;
 }
 
 .footer__sub-title {
