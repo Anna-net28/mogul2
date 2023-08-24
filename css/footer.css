@@ -2,8 +2,14 @@
     display: block;
 }
 
+.footer__container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 50px 150px 50px 150px;
+}
+
 .footer__wrapper {
-    padding: 25px 0 25px 15px;
+    padding: 25px 45px 25px 45px;
     border-radius: 10px;
     background: #F1F1F1;
 }
