@@ -1,5 +1,8 @@
 .footer {
     display: block;
+}
+
+.footer__wrapper {
     padding: 25px 0 25px 15px;
     border-radius: 10px;
     background: #F1F1F1;
