@@ -19,3 +19,7 @@ git add .
 git commit -m "отредактированы css файл indent"
 git diff --color-words
 git push
+git add .
+git commit -m "отредактированы css файл nirmalize,footer, header"
+git diff --color-words
+git push
