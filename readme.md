@@ -27,3 +27,7 @@ git add .
 git commit -m "отредактированы css файл nirmalize"
 git diff --color-words
 git push
+git add .
+git commit -m "исправлены отступы margin-bottom у заголовка, тукста и картинок"
+git diff --color-words
+git push

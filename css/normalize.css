@@ -24,8 +24,6 @@ h6 {
     font-weight: inherit;
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    margin-block-start: 0;
-    margin-block-end: 0;
 }
 
 nav,
@@ -212,13 +210,18 @@ textarea {
     font-style: normal;
     font-weight: 900;
     line-height: 120%;
+    margin-bottom: 30px;
 }
 
 .text {
     color: #000;
     font-size: 20px;
     font-weight: 400;
-    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.text:last-child {
+    margin-bottom: 0;
 }
 
 .sub-title {
@@ -230,7 +233,11 @@ textarea {
 
 .image {
     object-fit: cover;
-    padding-top: 30px;
     margin: 0 auto;
     display: block;
+    margin-bottom: 30px;
+}
+
+.image:last-child {
+    margin-bottom: 0;
 }
