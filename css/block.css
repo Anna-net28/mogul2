@@ -7,6 +7,9 @@
     padding: 0;
     display: flow-root;
 }
+.block {
+    margin-bottom: 50px;
+}
 
 .block-description {
     margin: 0;
