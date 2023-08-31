@@ -5,23 +5,3 @@
 @import url("../css/indent.css");
 @import url("../css/zeroing.css");
 @import url("../css/footer.css");
-
-@font-face {
-    font-family: ar;
-    src: local('Roboto-sans-serif') local('Roboto sans-serif') url('./fonts/Roboto-Regular.ttf') format('ttf');
-    font-weight: 400
-}
-
-@font-face {
-    font-family: 'Roboto', sans-serif;
-    src: local('Roboto-sans-serif') local('Roboto sans-serif') url('./fonts/Roboto-Black.ttf') format('ttf');
-    font-weight: 700;
-}
-
-@font-face {
-    font-family: 'Roboto', sans-serif;
-    src: local('Roboto-sans-serif') local('Roboto sans-serif') url('./fonts/Roboto-Bold.ttf') format('ttf');
-    font-weight: 900;
-}
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;700&family=Roboto:wght@400;700;900&display=swap');
