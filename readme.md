@@ -35,3 +35,7 @@ git add .
 git commit -m "исправлены отступы margin-bottom у .block, footer,indent, убран тег a у block-description__img "
 git diff --color-words
 git push
+git add .
+git commit -m "исправлены header,добавлен styles.css"
+git diff --color-words
+git push

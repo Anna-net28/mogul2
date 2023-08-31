@@ -1,0 +1,35 @@
+.container {
+    max-width: 1440px;
+    padding: 0 180px 50px 180px;
+    margin: 0 auto;
+}
+
+.title {
+    color: #000;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.text {
+    color: #000;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.sub-title {
+    color: #000;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+.image {
+    object-fit: cover;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 30px;
+}
