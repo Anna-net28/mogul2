@@ -40,6 +40,6 @@ git commit -m "исправлены header,добавлен styles.css"
 git diff --color-words
 git push
 git add .
-git commit -m "исправлены щтступы у секций и контейнера"
+git commit -m "исправлен шрифт"
 git diff --color-words
 git push
