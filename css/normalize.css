@@ -220,10 +220,6 @@ textarea {
     margin-bottom: 30px;
 }
 
-.text:last-child {
-    margin-bottom: 0;
-}
-
 .sub-title {
     color: #000;
     font-size: 44px;
@@ -236,8 +232,4 @@ textarea {
     margin: 0 auto;
     display: block;
     margin-bottom: 30px;
-}
-
-.image:last-child {
-    margin-bottom: 0;
 }

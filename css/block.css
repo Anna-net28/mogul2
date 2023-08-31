@@ -11,19 +11,38 @@
 .block-description {
     margin: 0;
     max-width: 100%;
+    margin-bottom: 30px;
+}
+
+.block-description:last-child {
+    margin-bottom: 0;
+}
+
+.block-description__item {
+    margin-bottom: 30px;
+}
+
+.block-description__item:last-child {
+    margin-bottom: 0;
 }
 
 .block-description__img {
     max-width: 99.8%;
     object-fit: cover;
     text-align: left;
-    margin-top: 30px;
 }
 
 .block-description__desc {
     float: right;
     width: 44.4%;
-    margin-left: 30px;
+}
+
+.block-description__text {
+    margin-bottom: 0;
+}
+
+.left-img {
+    margin-right: 30px;
 }
 
 .left {
